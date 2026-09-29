@@ -1,0 +1,2 @@
+Hello from my n8n GitHub practice!
+This is my first GitHub automation test.
